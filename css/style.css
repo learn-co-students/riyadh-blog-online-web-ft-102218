@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Karla);
 
 html, body {
   height: 100%;
@@ -20,7 +20,7 @@ body {
 }
 
 #content {
-  padding: 20px;
+  padding: 15px;
   background: rgba(255,255,255,.85);
 }
 
